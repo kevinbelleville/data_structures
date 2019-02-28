@@ -25,7 +25,7 @@ def partition(array, start, end):
 
 
 
-test_array = [7, 2, 1, 6, 8, 5, 3, 4]
+test_array = [7, 2, 1, 6, 8, 5, 3, 4, 20, 30, 41]
 print(test_array)
 quick_sort(test_array, 0, len(test_array)-1)
 print(test_array)
