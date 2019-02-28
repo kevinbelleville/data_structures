@@ -49,7 +49,7 @@ def merge(array, left, right):
 	return
 
 
-test_array = [8, 3, 1, 7, 0, 10, 2]
+test_array = [8, 41, 3, 1, 7, 0, 10, 2, 19]
 print(test_array)
 merge_sort(test_array)
 print(test_array)
